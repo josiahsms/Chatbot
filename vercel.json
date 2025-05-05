@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "src/App.js",
+      "use": "@vercel/static-build"
+    }
+  ],
+  "env": {
+    "CHATBOT_API_KEY": "@chatbot-api-key"
+  }
+}

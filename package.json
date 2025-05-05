@@ -12,4 +12,4 @@
     "build": "react-scripts build",
     "deploy": "vercel --prod"
   }
-}
+} 
